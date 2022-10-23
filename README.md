@@ -1,6 +1,6 @@
 # FirstClass_Interior
 
-Project Lead: Subin Lee
+Project Lead: Subin Lee (Annie)
 
 Designer: Harrison Popham
 
